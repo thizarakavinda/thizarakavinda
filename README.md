@@ -33,9 +33,9 @@
 
 ## 🔭 Current Focus
 
-- 🛠 **Vendors Discover Application**  
+- 🛠 **Realtime Chat App**  
   → A Flutter-based mobile application for discovering and managing event vendors.  
-  🔗 [View Project](https://github.com/thizarakavinda/Vendors-Discover-Application)
+  🔗 [View Project](https://github.com/thizarakavinda/flutter_firebase_getx_chat.git)
 
 - 🌱 Learning & Improving:
   - **Flutter**
