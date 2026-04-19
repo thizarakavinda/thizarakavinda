@@ -44,30 +44,7 @@
 
 ---
 
-<h3 align="center">🛠 Languages & Tools</h3>
-<br>
-<p align="center">
-  <!-- Mobile -->
-  <img src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/apple/FFFFFF" alt="iOS" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/expo/000000" alt="Expo" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/swift/F05138" alt="Swift" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" alt="Android Studio" width="40" height="40"/>
 
-  <!-- Databases -->
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/sqlite/003B57" alt="SQLite" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/apachehive/FDEE21" alt="Hive DB" width="40" height="40"/>
-
-  <!-- Frontend -->
-  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React Native" width="40" height="40"/>
-
-  <!-- Design -->
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" width="40" height="40"/>
-</p>
-<br>
 
 ---
 
