@@ -34,7 +34,7 @@
 ## 🔭 Current Focus
 
 - 🛠 **Realtime Chat App**  
-  → A Flutter-based mobile application for discovering and managing event vendors.  
+  → A real-time chat application built with Flutter, Firebase, and GetX.  
   🔗 [View Project](https://github.com/thizarakavinda/flutter_firebase_getx_chat.git)
 
 - 🌱 Learning & Improving:
