@@ -45,9 +45,15 @@
 ---
 
 <h3 align="center">🛠 Languages & Tools</h3>
-<br>
-<p align="center"><img src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" width="40" height="40"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" width="40" height="40"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/apple/FFFFFF" alt="iOS" width="40" height="40"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/expo/000000" alt="Expo" width="40" height="40"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/swift/F05138" alt="Swift" width="40" height="40"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/androidstudio/3DDC84" alt="Android Studio" width="40" height="40"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" width="40" height="40"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/sqlite/003B57" alt="SQLite" width="40" height="40"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/apachehive/FDEE21" alt="Hive DB" width="40" height="40"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" width="40" height="40"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/react/61DAFB" alt="React Native" width="40" height="40"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" width="40" height="40"/></p>
-<br>
+
+<div align="center">
+
+| | | | | | | | |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.simpleicons.org/flutter/02569B" width="40"/> | <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="40"/> | <img src="https://cdn.simpleicons.org/apple/FFFFFF" width="40"/> | <img src="https://cdn.simpleicons.org/expo/000000" width="40"/> | <img src="https://cdn.simpleicons.org/swift/F05138" width="40"/> | <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" width="40"/> | <img src="https://cdn.simpleicons.org/mongodb/47A248" width="40"/> | <img src="https://cdn.simpleicons.org/sqlite/003B57" width="40"/> |
+| <img src="https://cdn.simpleicons.org/apachehive/FDEE21" width="40"/> | <img src="https://cdn.simpleicons.org/html5/E34F26" width="40"/> | <img src="https://cdn.simpleicons.org/react/61DAFB" width="40"/> | <img src="https://cdn.simpleicons.org/figma/F24E1E" width="40"/> | <img src="https://cdn.simpleicons.org/dart/0175C2" width="40"/> | <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40"/> | <img src="https://cdn.simpleicons.org/python/3776AB" width="40"/> | <img src="https://cdn.simpleicons.org/git/F05032" width="40"/> |
+
+</div>
 
 ---
 
